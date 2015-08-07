@@ -1,0 +1,22 @@
+body { text-align: center; }
+
+ul { display: inline-block; 
+     list-style-type: none; 
+     padding: 0; }
+
+li { width: 25px;
+     height: 25px;
+     margin: 0; }
+
+.thePixel { width: 25px;
+         height: 25px;
+         border: solid black 1px; }
+
+#sketchBox { width: 416px; 
+             margin: 0 auto; }
+
+.ink { border: solid black 3px;
+       background-color: #AAAAAA;
+       height: 25px;
+       width: 75px; 
+       margin-top: 5px; }
